@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)
+![MasterHead](https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif)
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
