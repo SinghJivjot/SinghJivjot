@@ -1,6 +1,4 @@
-<div class="center">
-  <img width="400" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" alt="MasterHead">
-</div>
+![MasterHead](https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif)
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
