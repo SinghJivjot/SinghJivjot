@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif)
 <img align="left" alt="Coding" width="400" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif">
 <img align="right" alt="Coding" width="400" src="https://github.com/SinghJivjot/IPLNetwork/blob/master/iplnetwork.gif">
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
