@@ -1,7 +1,9 @@
-<img align="left" alt="Coding" width="400" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif">
-<img align="right" alt="Coding" width="200" src="https://github.com/SinghJivjot/IPLNetwork/blob/master/iplnetwork.gif">
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
+<p align="center">
+  <img src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" alt="Coding" width="400">
+  <img src="https://github.com/SinghJivjot/IPLNetwork/blob/master/iplnetwork.gif" alt="Coding" width="250">
+</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 - 🔭 I’m currently working at **Indian School of Business**
