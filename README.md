@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Indian School of Business**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Diffusion Models**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
 - 👯 I am interested in collaborating on **research in the field of Machine Learning**
 
