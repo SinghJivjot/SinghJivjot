@@ -1,4 +1,6 @@
 ![MasterHead](https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif)
+<img align="left" alt="Coding" width="400" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SinghJivjot/IPLNetwork/blob/master/iplnetwork.gif">
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
