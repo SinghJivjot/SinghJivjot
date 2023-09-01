@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
 <p align="center">
-  <img align="center" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" alt="Coding" width="400">
-  <img align="center" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" alt="Coding" width="300">
+  <img align="center" src="https://github.com/SinghJivjot/LinearRegression/blob/main/polynomial-learning.gif" alt="Coding" width="600">
+  <img align="center" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" alt="Coding" width="400">
 </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
-
+<img align="right" alt="Coding" width="400" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" width="300">
+<!-- https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif -->
 - 🔭 I’m currently working at **Indian School of Business**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
