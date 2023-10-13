@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jivjot Singh</h1>
 <h3 align="center">Aspiring Machine Learning Researcher from Punjab, India</h3>
 <p align="center">
-  <img align="center" src="https://github.com/SinghJivjot/MLfromScratch/blob/main/pol-reg-learning.gif" width="600">
+  <img align="center" src="https://github.com/SinghJivjot/MLfromScratch/blob/main/polynomial_regression.gif" width="600">
   <img align="right" width="400" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif">
 </p>
 <img align="right" alt="Coding" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" width="400">
@@ -34,4 +34,4 @@
 
 <img align="center" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" alt="Coding" width="400">
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjivjot&" alt="singhjivjot" /></p> -->
-<img align="right" src="https://github.com/SinghJivjot/MLfromScratch/blob/main/lin-reg-learning.gif" alt="singhjivjot" />
+<img align="right" src="https://github.com/SinghJivjot/MLfromScratch/blob/main/linear_regression.gif" alt="singhjivjot" />
