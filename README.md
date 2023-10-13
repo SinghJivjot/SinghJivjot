@@ -6,11 +6,11 @@
 </p>
 <img align="right" alt="Coding" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" width="400">
 <!-- https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif -->
-- 🔭 I’m currently working at **Indian School of Business**
+- 🔭 I’m currently working at **IIIT Delhi as RA**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
-- 👯 I am interested in collaborating on **research in the field of Natural Language Processing**
+- 👯 I am interested in collaborating on **research in the field of Deep Learning and NLP**
 
 - 🤝 I’m looking for help with **entry-level research opportunities**
 
