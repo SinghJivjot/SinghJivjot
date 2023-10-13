@@ -6,7 +6,7 @@
 </p>
 <img align="right" alt="Coding" src="https://github.com/SinghJivjot/MultiLayerPerceptron/blob/master/mlp-learning.gif" width="400">
 <!-- https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif -->
-- 🔭 I’m currently working at **IIIT Delhi as RA**
+- 🔭 I’m currently working at **IIIT Delhi**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
