@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
-- 👯 I am interested in collaborating on **research in the field of Deep Learning and NLP**
+- 👯 I am interested in collaborating on **research in the field of Deep Learning and Natural Language Processing**
 
 - 🤝 I’m looking for help with **entry-level research opportunities**
 
