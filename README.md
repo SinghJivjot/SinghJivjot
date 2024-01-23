@@ -5,7 +5,7 @@
   <img align="right" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" width="350" />
 </p>
 
-- 🔭 I’m currently working at **IIIT Delhi as RA**
+- 🔭 I’m currently working at **IIIT Delhi as Machine Learning Research Assistant**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
