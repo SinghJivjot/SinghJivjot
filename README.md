@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **IIIT Delhi as Machine Learning Research Assistant**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning, Natural Language Processing and Large Language Models**
 
-- 👯 I am interested in collaborating on **research in the field of Deep Learning and Natural Language Processing**
+- 👯 I am interested in collaborating on **research in the field of LLMs**
 
 - 🤝 I’m looking for help with **entry-level research opportunities**
 
