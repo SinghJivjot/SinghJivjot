@@ -5,13 +5,13 @@
   <img align="right" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" width="350" />
 </p>
 
-- 🔭 I’m currently working at **IIIT Delhi as Machine Learning Research Assistant**
+- 🔭 I’m currently working at **IIT Kanpur as ML Project Associate**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning, Natural Language Processing and Large Language Models**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
 
-- 👯 I am interested in collaborating on **research in the field of LLMs**
+- 👯 I am interested in pursuing **PhD in the field of Machine Learning** and publishing **Conference Papers**
 
-- 🤝 I’m looking for help with **entry-level research opportunities**
+- 🤝 I’m looking for help with **research opportunities**
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
