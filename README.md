@@ -5,11 +5,11 @@
   <img align="right" src="https://github.com/SinghJivjot/MonteCarlo/blob/master/pi.gif" width="350" />
 </p>
 
-- 🔭 I’m currently working at **IIT Kanpur as ML Project Associate**
+- 🔭 I’m currently working at **IIT Kanpur as Project Associate in Machine Learning**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Deep Learning and Natural Language Processing**
+- 🌱 I’m currently learning **Uncertainty Estimation, Optimization and Reinforcement Learning**
 
-- 👯 I am interested in pursuing **PhD in the field of Machine Learning** and publishing **Conference Papers**
+- 👯 I am interested in pursuing **PhD in the field of Machine Learning** and publishing papers in top conferences
 
 - 🤝 I’m looking for help with **research opportunities**
 
